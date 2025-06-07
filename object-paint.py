@@ -34,7 +34,7 @@ while True:
 
     if sampling:
         cv2.rectangle(frame_copy, (roi_left, roi_top), (roi_right, roi_bottom), (0, 255, 0), 2)
-        cv2.putText(frame_copy, "Place finger in box & press 's' to sample", (10, 50),
+        cv2.putText(frame_copy, "Place object in box & press 's' to sample", (10, 50),
                     cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2)
 
     else:
