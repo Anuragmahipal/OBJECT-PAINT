@@ -22,7 +22,7 @@ Bring your creativity to life — **draw in the air** using just a colored objec
 2. **Hit the `s` key to calibrate** the color detection based on the sample.  
 3. The app **isolates your object by filtering colors** and tracks its position in each video frame.  
 4. As you move the object, it **draws smooth lines on a virtual canvas** following the object’s centroid.  
-5. Use keyboard shortcuts to change colors, adjust brush thickness, or clear the canvas — all without touching your mouse or keyboard!  
+5. Use keyboard shortcuts to change colors, adjust brush thickness, or clear the canvas — all without touching your mouse !  
 
 ---
 
