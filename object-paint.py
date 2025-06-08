@@ -106,7 +106,6 @@ while True:
         hsv_upper = np.array([min(h_median + 10, 179), min(s_median + 40, 255), min(v_median + 40, 255)])
 
         sampling = False
-        print(f"HSV range: {hsv_lower} - {hsv_upper}")
 
 
     elif key == ord('c'):
