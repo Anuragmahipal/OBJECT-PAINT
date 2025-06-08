@@ -78,7 +78,7 @@ while True:
 
     
     combined = cv2.addWeighted(frame_copy, 0.5, canvas, 0.5, 0)  #if wanted a combination of frame and canvas
-    # cv2.imshow("Fingertip",frame_copy)
+    cv2.imshow("object_here",frame_copy)
     # cv2.imshow("combine",combined)
 
     cv2.imshow("paint",canvas)
